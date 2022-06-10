@@ -38,7 +38,7 @@ se un ingrediente è nella cucina lo poggio sul tavolo
         50 gr di farina
     non è nella cucina --> lo aggiungo alla lista della spesa  
 controllo ogni singolo strumento
-    se un ingrediente è nella cucina lo poggio sul tavolo
+    se uno strumento è nella cucina lo poggio sul tavolo
         una padella
         una pentola
         una pirofila
@@ -91,7 +91,6 @@ inizio a cucinare
         prendo il tagliere
         prendo la farina 
             la dispongo a fontana
-         
         prendo un uovo
             rompo un uovo
             lo dispongo nella farina
@@ -99,7 +98,7 @@ inizio a cucinare
                     se no --> prendo un uovo
                                 rompo un uovo
                                 lo dispongo nella farina
-        se si --> inserisco il sale   
+                    se si --> inserisco il sale   
         sbatto le uova
         impasto le uova con la farina
         creo una forma
@@ -134,7 +133,7 @@ prendo una pirofila
             se si --
                 inserisco la lasagna
             se no --
-                attendo 30 minuti
+                attendo
     la lasagna è pronta
     fine
     
